@@ -7,7 +7,7 @@ The goal of this repo to keep actual list of Garmin devices related to the concr
 Just check the folder for minimal Garmin IQ SDK API level, copy required manifest file and add it you your own Monkey C project
 
 ## License
-Garmin-CIQ-Manifests source code is released under the MIT License.
+Garmin-CIQ-Manifests source code is released under the MIT License http://www.opensource.org/licenses/mit-license
 
 
 Copyright (c) 2024 Anatolii Shuba
