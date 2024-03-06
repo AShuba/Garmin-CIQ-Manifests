@@ -5,7 +5,7 @@ Garmin release a lot of wearables devices with different minimal CIQ SDK levels.
 The goal of this repo is to keep actual list of Garmin devices related to the concrete Garmin IQ SDK API level. This will help you to keep actual list of Garmin devices connected with your Connect IQ aplication.
 
 ## How to use the repo
-Just check the folder for minimal Garmin IQ SDK API level, copy required manifest file and add it you your own Monkey C project
+Just check the folder for minimal Garmin IQ SDK API level you want to use with your application, copy required manifest file and add it you your own Monkey C project
 
 ## License
 Garmin-CIQ-Manifests source code is released under the MIT License http://www.opensource.org/licenses/mit-license
