@@ -1,8 +1,8 @@
 # Garmin-CIQ-Manifests
 Set of Garmin Connect IQ SDK manifests files with actual list of supported devices
 
-Garmin release a lot of wearables devices with different minimal CIQ SDK levels.
-The goal of this repo is to keep actual list of Garmin devices related to the concrete Garmin IQ SDK API level. This will help you to keep actual list of Garmin devices connected with your Connect IQ aplication.
+Every year Garmin releases a lot of wearables devices with different minimal CIQ SDK levels.
+The goal of this repo is to genearte manifest.xml file with actual list of Garmin devices which are related to the concrete Garmin IQ SDK API level. This can help you to keep actual list of Garmin devices connected with your Connect IQ aplication.
 
 ## How to use the repo
 You have two options here:
